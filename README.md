@@ -21,7 +21,7 @@
 ## Code
 
 You can find the code for this project here.
-* [stock market prediction.ipynb](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction/blob/main/stock%20market%20prediction.ipynb).
+* [stock market prediction.ipynb](https://github.com/Sahanmin/Stock-Market-Price-Prediction/blob/main/stock%20market%20prediction.ipynb).
 
 ## Technologies/Tools
 
